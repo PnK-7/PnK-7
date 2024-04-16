@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PnK-7
 - People call me *Praba* or *Fathan*.
-- Im 15 years old.
+- Im 16 years old.
 - Im a student at *SMK Bina Sejahtera 4*.
 - 👀 I’m interested in
   - Python
