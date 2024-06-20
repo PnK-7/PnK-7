@@ -49,10 +49,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PnK-7/PnK-7/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="150" src=""  />
-
+![Snake animation](https://github.com/PnK-7/PnK-7/blob/output/github-contribution-grid-snake.svg)
 ###
